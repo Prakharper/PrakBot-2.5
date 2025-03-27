@@ -8,7 +8,7 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
-// Staff De CrowBot
+// Staff De PrakBot
 global.owner = [
    ['584241836217', 'Creador Prak🚀', true],
    ['584164267247', 'PrakBot Soporte', true],
