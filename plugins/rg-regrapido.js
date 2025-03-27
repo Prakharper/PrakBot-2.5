@@ -43,8 +43,8 @@ let ager = [ "18", "19", "20", "17", "16"].getRandom();
         contextInfo: {
             externalAdReply: {
                 title: '⊱『🌃𝆺𝅥 𝗥𝗘𝗚𝗜𝗦𝗧𝗥𝗔𝗗𝗢(𝗔) 𝆹𝅥🚀』⊰',
-                body: '¡Bienvenido a CrowBot!',
-                thumbnailUrl: 'https://i.ibb.co/GMTyKcN/file.jpg',
+                body: '¡Bienvenido a PrakBot!',
+                thumbnailUrl: 'https://files.catbox.moe/ccf3zj.jpg',
                 sourceUrl: 'https://whatsapp.com/channel/0029Vb03dv95a23v1gG0gT24',
                 mediaType: 1,
                 showAdAttribution: true,
