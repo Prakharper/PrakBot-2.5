@@ -144,7 +144,7 @@ let handler = async (m, { conn, text }) => {
 
 if (!text) return conn.reply(m.chat, '❀ Ingrese una petición para que el ChatGpT lo responda.', m);
 
-  await m.react('⏳');
+  await m.react('🚀');
 
   try {
     const query = text;
@@ -160,7 +160,7 @@ if (!text) return conn.reply(m.chat, '❀ Ingrese una petición para que el Chat
           showAdAttribution: true,
           containsAutoReply: true,
           title: `ᥴr᥆ᥕ ᥲі ᑲᥡ ᥕіᥣᥣzᥱk`,
-          body: 'Desarrollado por CrowBot',
+          body: 'Desarrollado por PrakBot',
           previewType: "PHOTO",
           thumbnailUrl: 'https://files.catbox.moe/v1l74n.jpg',
           sourceUrl: 'https://whatsapp.com/channel/0029Vb1AFK6HbFV9kaB3b13W',
