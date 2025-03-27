@@ -23,29 +23,29 @@ let ager = [ "18", "19", "20", "17", "16"].getRandom();
 
     let sn = createHash('md5').update(m.sender).digest('hex')
     let regbot = `┏━━━━━━━━━━━━━━━━━━⬣
-┃⋄ *🍭 𝐑𝐄𝐆𝐈𝐒𝐓𝐑𝐎 - 𝐑𝐀𝐏𝐈𝐃𝐎*
+┃⋄ *🚀 𝐑𝐄𝐆𝐈𝐒𝐓𝐑𝐎 - 𝐑𝐀𝐏𝐈𝐃𝐎*
 ┗━━━━━━━━━━━━━━━━━━⬣\n`
     regbot += `•┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄•\n`
-    regbot += `「💛」𝐍𝐨𝐦𝐛𝐫𝐞: ${defaultName}\n`
-    regbot += `「💛」𝐄𝐝𝐚𝐝: ${defaultAge} años\n`
+    regbot += `「🚀」𝐍𝐨𝐦𝐛𝐫𝐞: ${defaultName}\n`
+    regbot += `「🚀」𝐄𝐝𝐚𝐝: ${defaultAge} años\n`
     regbot += `•┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄•\n`
-    regbot += `「💝」𝐑𝐞𝐜𝐨𝐦𝐩𝐞𝐧𝐬𝐚𝐬:\n> `
+    regbot += `「🚀」𝐑𝐞𝐜𝐨𝐦𝐩𝐞𝐧𝐬𝐚𝐬:\n> `
     regbot += `• 5 Estrellas 🌟\n> `
     regbot += `• 3 CrowCoins 🪙\n> `
     regbot += `• 100 Experiencia 💸\n> `
     regbot += `• 5 Tokens 💰\n`
     regbot += `꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷\n> `
-    regbot += `🎩 Verifica Tu Registro Aqui 👇🏻`
+    regbot += `🚀 Verifica Tu Registro Aqui 🚀`
 
-    await m.react('🍷')
+    await m.react('📫')
     await conn.sendMessage(m.chat, {
         text: regbot,
         contextInfo: {
             externalAdReply: {
-                title: '⊱『🌃𝆺𝅥 𝗥𝗘𝗚𝗜𝗦𝗧𝗥𝗔𝗗𝗢(𝗔) 𝆹𝅥🍬』⊰',
+                title: '⊱『🌃𝆺𝅥 𝗥𝗘𝗚𝗜𝗦𝗧𝗥𝗔𝗗𝗢(𝗔) 𝆹𝅥🚀』⊰',
                 body: '¡Bienvenido a CrowBot!',
                 thumbnailUrl: 'https://i.ibb.co/GMTyKcN/file.jpg',
-                sourceUrl: 'https://whatsapp.com/channel/0029Vb1kImN42Dcn99y1rW0E',
+                sourceUrl: 'https://whatsapp.com/channel/0029Vb03dv95a23v1gG0gT24',
                 mediaType: 1,
                 showAdAttribution: true,
                 renderLargerThumbnail: true
