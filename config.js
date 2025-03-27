@@ -12,10 +12,10 @@ import moment from 'moment-timezone'
 global.owner = [
    ['584241836217', 'Creador Prak🚀', true],
    ['584164267247', 'PrakBot Soporte', true],
-   ['', 'Dev Diomar', true],
+   ['573143681055', 'prak harper', true],
    ['', 'Dev ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', true],
    ['50557865603', 'Dev WillZek', true],
-   ['51968382008', 'Dev Darkcore', true],
+   ['', 'Dev Darkcore', true],
 ]
 
 global.creadorbot = [
