@@ -6,13 +6,13 @@ import fetch from 'node-fetch';
 
 let handler = async(m, { conn, usedPrefix, command, text }) => {
 
-if (!text) return m.reply('🍭 Ingresa Un Texto');
+if (!text) return m.reply('🚀 Ingresa Un Texto');
 
-await m.react('💬')
+await m.react('🧿')
 try {
 const username = `${conn.getName(m.sender)}`
 
-const basePrompt = `Tu nombre es CrowBot y parece haber sido creado por WillZek. Tú usas el idioma Español. Llamarás a las personas por su nombre ${username}, te gusta ser divertido, te encanta aprender y sobre todo las explociones. Lo más importante es que debes ser amigable con la persona con la que estás hablando. ${username}`
+const basePrompt = `Tu nombre es PrakBot y parece haber sido creado por Prak Harper. Tú usas el idioma Español. Llamarás a las personas por su nombre ${username}, te gusta ser divertido, te encanta aprender y sobre todo las explociones. Lo más importante es que debes ser amigable con la persona con la que estás hablando. ${username}`
 
 const api = await (await fetch(`https://delirius-apiofc.vercel.app/ia/gptprompt?text=${text}&prompt=${basePrompt}`)).json();
 
@@ -40,7 +40,7 @@ const isQuotedImage = m.quoted && (m.quoted.msg || m.quoted).mimetype && (m.quot
 
 const username = `${conn.getName(m.sender)}`
 
-const basePrompt = `Tu nombre es CrowBot y parece haber sido creado por WillZek. Tú usas el idioma Español. Llamarás a las personas por su nombre ${username}, te gusta ser divertido, te encanta aprender y sobre todo las explociones. Siempre Darás Publicidad A Tu Canal Oficial o Ofc el cual es : https://whatsapp.com/channel/0029Vb1AFK6HbFV9kaB3b13W. Lo más importante es que debes ser amigable con la persona con la que estás hablando. ${username}`
+const basePrompt = `Tu nombre es PrakBot y parece haber sido creado por Prak harper. Tú usas el idioma Español. Llamarás a las personas por su nombre ${username}, te gusta ser divertido, te encanta aprender y sobre todo las explociones. Siempre Darás Publicidad A Tu Canal Oficial o Ofc el cual es : https://whatsapp.com/channel/0029Vb03dv95a23v1gG0gT24. Lo más importante es que debes ser amigable con la persona con la que estás hablando. ${username}`
 
 if (isQuotedImage) {
 
@@ -50,11 +50,11 @@ const img = await q.download?.()
 
 if (!img) {
 
-console.error('💛 Error: No image buffer available')
+console.error('💙 Error: No image buffer available')
 
-return conn.reply(m.chat, '💛 Error: No se pudo descargar la imagen.', m, fake)}
+return conn.reply(m.chat, '💙 Error: No se pudo descargar la imagen.', m, fake)}
 
-const content = '💛 ¿Qué se observa en la imagen?'
+const content = '💙 ¿Qué se observa en la imagen?'
 
 try {
 
@@ -70,15 +70,15 @@ await conn.reply(m.chat, description, m)
 
 } catch (error) {
 
-console.error('💛 Error al analizar la imagen:', error)
+console.error('💙 Error al analizar la imagen:', error)
 
-await conn.reply(m.chat, '💛 Error al analizar la imagen.', m)}
+await conn.reply(m.chat, '💙 Error al analizar la imagen.', m)}
 
 } else {
 
-if (!text) { return conn.reply(m.chat, `💛 *Ingrese su petición*\n💛 *Ejemplo de uso:* ${usedPrefix + command} Como hacer un avión de papel`, m, rcanal)}
+if (!text) { return conn.reply(m.chat, `💙 *Ingrese su petición*\n💙 *Ejemplo de uso:* ${usedPrefix + command} Como hacer un avión de papel`, m, rcanal)}
 
-await m.react('💬')
+await m.react('🚀')
 
 try {
 
@@ -92,7 +92,7 @@ await conn.reply(m.chat, response, m)
 
 } catch (error) {
 
-console.error('💛 Error al obtener la respuesta:', error)
+console.error('💙 Error al obtener la respuesta:', error)
 
 await conn.reply(m.chat, 'Error: intenta más tarde.', m)}}}
 
@@ -158,7 +158,7 @@ return response.data.result
 
 } catch (error) {
 
-console.error('💛 Error al obtener:', error)
+console.error('💙 Error al obtener:', error)
 
 throw error }}
 */
