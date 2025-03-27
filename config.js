@@ -10,10 +10,10 @@ import moment from 'moment-timezone'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 // Staff De CrowBot
 global.owner = [
-   ['584241836217', 'Creador Prak💛', true],
-   ['5212731595017', 'CrowBot Soporte', true],
-   ['584148256527', 'Dev Diomar', true],
-   ['584120346669', 'Dev ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', true],
+   ['584241836217', 'Creador Prak🚀', true],
+   ['584164267247', 'PrakBot Soporte', true],
+   ['', 'Dev Diomar', true],
+   ['', 'Dev ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', true],
    ['50557865603', 'Dev WillZek', true],
    ['51968382008', 'Dev Darkcore', true],
 ]
@@ -53,15 +53,15 @@ global.catalogo = fs.readFileSync('./media/catalogo.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 global.repobot = 'https://github.com/WillZek/CrowBot-ST'
-global.grupo = 'https://chat.whatsapp.com/B7POPrlJiZf7UWHJKvzVkx'
-global.gteam = 'https://chat.whatsapp.com/EpkR7XS0hrMDYk89yw57HZ'
-global.gsupport = 'https://chat.whatsapp.com/K5GLB5CXp3iAl4XsDzav1W'
-global.comu = 'https://chat.whatsapp.com/Bgfb6Ag13BDCvwzOtldlCm'
-global.channel = 'https://whatsapp.com/channel/0029Vb1AFK6HbFV9kaB3b13W'
-global.insta = 'https://www.instagram.com/crowbot-wa'
+global.grupo = 'https://whatsapp.com/channel/0029Vb03dv95a23v1gG0gT24'
+global.gteam = 'https://whatsapp.com/channel/0029Vb03dv95a23v1gG0gT24'
+global.gsupport = 'https://whatsapp.com/channel/0029Vb03dv95a23v1gG0gT24'
+global.comu = 'https://whatsapp.com/channel/0029Vb03dv95a23v1gG0gT24'
+global.channel = 'https://whatsapp.com/channel/0029Vb03dv95a23v1gG0gT24'
+global.insta = 'https://www.instagram.com/harperprak'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "543876577197-120363317332020195@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '👑【✫𝚃𝙴𝙰𝙼  乂 𝚂𝚃𝙰𝚁𝙲𝙾𝚁𝙴✫】🎩', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "543876577197-120363317332020195@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '🚀【✫𝚃𝙴𝙰𝙼  乂 𝚂𝚃𝙰𝚁𝙲𝙾𝚁𝙴✫】🚀', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
