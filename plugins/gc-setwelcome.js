@@ -1,4 +1,4 @@
-/* Código Hecho Por WillZek para CrowBot
+/* Código Hecho Por WillZek para PrakBot
 - Tienen Que Definir El welcomeMessage también en el _welcome.js o no funcionará 
 - también tienen que agregar ${welcomeMessage} en el mensaje de bienvenida, eso sí, las comillas son `
 - Espero Les Funcione uwu 
