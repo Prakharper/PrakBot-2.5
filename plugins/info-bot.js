@@ -5,7 +5,7 @@ handler.all = async function(m) {
 const chat = global.db.data.chats[m.chat];
 if (chat.isBaneed) return
 if (/^bot$/i.test(m.text)) {
-conn.reply(m.chat, `🌠 ¡Hola! Soy CrowBot, en que puedo ayudarte hoy?\n\n✰ Usa *.menu* para ver mis comandos.`, m, rcanal, )
+conn.reply(m.chat, `🌠 ¡Hola! Soy PrakBot, en que puedo ayudarte hoy?\n\n✰ Usa *.menu* para ver mis comandos.`, m, rcanal, )
 }
 /*if (/^que|q$/i.test(m.text)) {
 conn.reply(m.chat, `*so*`, m, rcanal, )
@@ -18,12 +18,26 @@ if (/^Bot de mierda/i.test(m.text)) {
 conn.reply(m.chat, `*No digas mamadas, Meriyein*`, m, rcanal, )
 }
 
-if (/^porno|gore/i.test(m.text)) {
-conn.reply(m.chat, `*Escucha maldita sabandija ni se te ocurra enviar ese tipo de contenido 🤬*`, m, rcanal, )
+if (/^Aamon|Aamōn$/i.test(m.text)) {
+conn.reply(m.chat, `*Aamōn🔥 es la perrita de mi creador* 🥵🥵`, m, rcanal, )
+}
+
+if (/^I'm Fz|im fz$/i.test(m.text)) {
+conn.reply(m.chat, `*Psycho🔥 es la pajeadora de mi creador* 🥵🥵`, m, rcanal, )
+}
+
+if (/^a$/i.test(m.text)) {
+conn.reply(m.chat, `*rroz y pollo* 😋👌`, m, rcanal, )
 }
 
 if (/^Bot Perzonalizado Simple/i.test(m.text)) {
 conn.reply(m.chat, `*Claro, El Bot Perzonalizado Simple Cuesta 14$ Con Server Incluído y comisión, trae comandos básicos.[🌠]*`, m, rcanal, )
+}
+
+if (/^Quiero Un Bot/i.test(m.text)) {
+conn.reply(m.chat, `*¡Claro!, Vendemos Bots A Buen Precio Y Accesibles a tus Necesidades [🌠]*
+> Más Información 
+https://chat.whatsapp.com/KfcT8ReqiJW93g17vSXVpf`, m, rcanal, )
 }
 
 if (/^Bot de mrd/i.test(m.text)) {
@@ -39,15 +53,24 @@ Tenemos:
 > *Consulta Los Precios [🌠]*`, m, rcanal, )
 }
 
+if (/^Lan/i.test(m.text)) {
+conn.reply(m.chat, `*Lan se la chupa 3 veces seguidas en 5 minutos a mí creador🥵🔥*`, m, rcanal, )
+}
+
 if (/^Bot en decadencia/i.test(m.text)) {
-conn.reply(m.chat, `*Tu Mamá we 🍆🥵*`, m, rcanal, )
+conn.reply(m.chat, `*Calla 🍆🥵*`, m, rcanal, )
 }
 
-if (/^Crow$/i.test(m.text)) {
-conn.reply(m.chat, `*Hola Eres Fan De* *CrowBot o Brawl Stars*
-*Entonces Sigue El Canal Oficial!*\n> https://whatsapp.com/channel/0029Vb1AFK6HbFV9kaB3b13W\n\n*O Puedes Ir Al Sitio Web Oficial De CrowBot!*\n> https://crowbot-web.vercel.app/\n\n*Gracias por utilizar CrowBot-MF* `, m, rcanal, )
+if (/^Prak/i.test(m.text)) {
+conn.reply(m.chat, `*prakharper Es Mi Creador, Respeta!*`, m, rcanal, )
 }
 
+if (/^harper$/i.test(m.text)) {
+conn.reply(m.chat, `*Hola ¿Eres Fan De* *PrakBot,LeviBot o DemonBot?*
+*Entonces Sigue El Canal Oficial!*
+> https://whatsapp.com/channel/0029Vb03dv95a23v1gG0gT24
+ *Gracias por utilizar PrakBot-2.0* `, m, rcanal, )
+}
 if (/^reglasgp|.reglasgp$/i.test(m.text)) {
 conn.reply(m.chat, `**R꙰EGLAS DEL GRUP❍ꪜ*
 
@@ -73,7 +96,7 @@ conn.reply(m.chat, `**R꙰EGLAS DEL GRUP❍ꪜ*
 █║║██║║██║║██║║██║║█
 ✧･ﾟ: *✧･Atte.
 
-☆ ፝͜★ৡ͜͡✞ *CrowBot* ➵͡☠️⃪̸ੵ᷒ᰰ↱
+☆ ፝͜★ৡ͜͡✞ *𝗣⃪᪼ۖ⃖𝐑𝗔̷̷͠𝐊 𝖡̶⃨͠𝐎𝗧ۚ𖬲็̹͛* ➵͡☠️⃪̸ੵ᷒ᰰ↱
 
 ✧･ﾟ: *✧･ﾟ:*✧･ﾟ: *✧･ﾟ:*✧･ﾟ: *✧･ﾟ:*`, m, rcanal, )
 }
