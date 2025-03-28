@@ -10,7 +10,7 @@ let handler = async (m, { conn }) => {
 
   await m.react('🕒')
   if (!mime.startsWith('image/')) {
-    return m.reply('🍭 Responde A Una Imagen ✨\n> Para Obtener El Link De Un Video Usa *#tourl2*')
+    return m.reply('🚀 Responde A Una Imagen ✨\n> Para Obtener El Link De Un Video Usa *#tourl2*')
   }
 
   let media = await q.download()
@@ -26,7 +26,7 @@ let handler = async (m, { conn }) => {
   await m.react('✅')
   if (api.data.data) {
     let txt = `${wm}\n\n`
-        txt += `*🔖 Titulo* : ${q.filename || 'crow'}\n`
+        txt += `*🔖 Titulo* : ${q.filename || 'Prak'}\n`
         txt += `*🔖 Enlace* : ${api.data.data.url}\n`
         txt += `*🔖 Mime* : ${mime}\n`
         txt += `*🔖 File* : ${q.filename || 'crow.jpg'}\n`
