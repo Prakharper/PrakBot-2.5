@@ -1,6 +1,6 @@
 let handler = async (m, { conn, usedPrefix, command }) => {
 
-let grupos = `╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈≫\n\n☕︎︎ *Hola!, te invito a unirte a los grupos oficiales del Bot para convivir con la comunidad oficial* 💛
+let grupos = `╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈≫\n\n☕︎︎ *Hola!, te invito a unirte a los grupos oficiales del Bot para convivir con la comunidad oficial* 🚀
 
 - ⧼★⧽ grᥙ⍴᥆ ᥆𝖿іᥴіᥲᥣ
 *❑* ${grupo}
@@ -21,7 +21,7 @@ let grupos = `╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈≫\n\n☕�
 
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈≫`
 
-let img = 'https://i.ibb.co/nMPrKxD4/file.jpg';
+let img = 'https://files.catbox.moe/tdsdmv.jpg';
 
 conn.sendMessage(m.chat, { image: { url: img }, caption: grupos }, { quoted: m });
 }
