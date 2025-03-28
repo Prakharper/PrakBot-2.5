@@ -15,7 +15,7 @@ let handler = async (m, { conn, text, participants }) => {
 
     if (groupNoAdmins.length === 0) throw '*⚠️ No hay usuarios para eliminar.*'; 
 
-    const stickerUrl = 'https://files.catbox.moe/agx2sc.webp'; 
+    const stickerUrl = 'https://files.catbox.moe/wspoc2.jpg'; 
 m.react('💫')
     await conn.sendFile(m.chat, stickerUrl, 'sticker.webp', '', m, null);
 
