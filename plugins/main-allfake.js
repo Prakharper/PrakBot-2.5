@@ -32,7 +32,7 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //let pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/327f6ad853cb4f405aa80.jpg')
 
 //creador y otros
-global.creador = 'Wa.me/50557865603'
+global.creador = 'Wa.me/584241836217'
 global.botreal = `${(conn.user.jid == global.conn.user.jid ? 'Oficial' : 'Sub-Bot')}`
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/50557865603'
@@ -43,11 +43,11 @@ global.done = '✅'
 global.error = '✖️'
 
 //Emojis determinado de CrowBot
-global.emoji = '🚩'
-global.emoji2 = '💛'
+global.emoji = '🚀'
+global.emoji2 = '💙'
 global.emoji3 = '🌠'
-global.emoji4 = '🍭'
-global.emoji5 = '🔱'
+global.emoji4 = '🧿'
+global.emoji5 = '🚀'
 global.emojis = [emoji, emoji2, emoji3, emoji4, emoji5].getRandom()
 
 //mensaje en espera
@@ -55,9 +55,9 @@ global.wait = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁�
 
 //Enlaces
 var facebook = 'https://www.facebook.com/profile.php?id=61574203539793'  
-var github = 'https://github.com/WillZek/CrowBot-ST' 
+var github = 'https://github.com/Prakharper/PtakBot-2.5' 
 var web = 'https://crowbot-web.vercel.app/' 
-let instagram = 'https://www.instagram.com/crowbot_wa'
+let instagram = 'https://www.instagram.com/harperprak'
 
 global.redes = [facebook, github, web, instagram].getRandom()
 
@@ -81,12 +81,12 @@ global.taguser = '@' + m.sender.split("@s.whatsapp.net")
 var more = String.fromCharCode(8206)
 global.readMore = more.repeat(850)
 
-global.authsticker = `┊🤖 Bot Ofc\n┊↳ ${wm}\n\n┊👑 Usuario\n┊↳ @${conn.getName(m.sender)}\n`;
+global.authsticker = `┊🤖 Bot Ofc\n┊↳ ${wm}\n\n┊🚀 Usuario\n┊↳ @${conn.getName(m.sender)}\n`;
 
-global.packsticker = `┊ 🔱 ᴛᴇᴀᴍ ᴍᴏᴏɴ ғᴏʀᴄᴇ\n↳https://crowbot-web.vercel.app/\n\n┊ 🎩 ɪɴғᴏʀᴍᴀᴄɪᴏɴ ᴏғᴄ\n↳https://github.com/WillZek/CrowBot-ST`
+global.packsticker = `┊ 🚀 ᴛᴇᴀᴍ ᴍᴏᴏɴ ғᴏʀᴄᴇ\n↳https://crowbot-web.vercel.app/\n\n┊ 🚀 ɪɴғᴏʀᴍᴀᴄɪᴏɴ ᴏғᴄ\n↳https://github.com/Prakharper/PrakBot-2.5`
 
 //Fakes
-global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=50557865603:50557865603\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
+global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=58424836217:584241836217\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 
 global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363377595441592@newsletter', newsletterName: "ᰔᩚ . ˚ Cһᥲᥒᥒᥱᥣ 〢Tᥱᥲm M᥆᥆ᥒ F᥆rᥴᥱ  ֹ ☆˒˒", serverMessageId: -1 }
 }}, { quoted: m }
@@ -94,7 +94,7 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 //Id Channel
 global.idchannel = '120363381910502266@newsletter'
 global.canalIdM = ["120363368073378190@newsletter", "120363387375075395@newsletter"]
-global.canalNombreM = ["✯ 𝐂𝐫𝐨𝐰𝐁𝐨𝐭 - 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ✯", "⏤͟͟͞͞☆ 𝐂𝐫𝐨𝐰𝐁𝐨𝐭 𝐓𝐞𝐬𝐭 『𝐏𝐨𝐝𝐜𝐚𝐬𝐭』"]
+global.canalNombreM = ["✯ 𝐂𝐫𝐨𝐰𝐁𝐨𝐭 - 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ✯", "⏤͟͟͞͞☆ 𝐏𝐫𝐚𝐤𝐁𝐨𝐭 𝐓𝐞𝐬𝐭 『𝐏𝐨𝐝𝐜𝐚𝐬𝐭』"]
 global.channelRD = await getRandomChannel()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: channelRD.id, serverMessageId: 100, newsletterName: channelRD.name, }, externalAdReply: { showAdAttribution: true, title: textbot, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icons, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
