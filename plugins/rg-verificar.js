@@ -62,7 +62,7 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
         contextInfo: {
             externalAdReply: {
                 title: '⊱『✅𝆺𝅥 𝗥𝗘𝗚𝗜𝗦𝗧𝗥𝗔𝗗𝗢(𝗔) 𝆹𝅥✅』⊰',
-                thumbnailUrl: 'https://i.ibb.co/GMTyKcN/file.jpg',
+                thumbnailUrl: 'https://files.catbox.moe/tdsdmv.jpg',
                 mediaType: 1,
                 renderLargerThumbnail: true
             }
