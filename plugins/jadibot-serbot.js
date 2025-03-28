@@ -15,7 +15,7 @@ let handler = async (m, { conn, args, usedPrefix, command, isOwner, isPrems, isR
 
 const bot = global.db.data.settings[conn.user.jid] || {};
 
-if (!bot.jadibotmd) return m.reply('💛 Este Comando Se Encuentra Desactivado Por Mi Creador');
+if (!bot.jadibotmd) return m.reply('💙 Este Comando Se Encuentra Desactivado Por Mi Creador');
 
 let parentw = args[0] && args[0] == "plz" ? conn : await global.conn
 if (!(args[0] && args[0] == 'plz' || (await global.conn).user.jid == conn.user.jid)) {
