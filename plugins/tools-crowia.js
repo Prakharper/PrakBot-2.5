@@ -62,7 +62,7 @@ console.error('💙 Error al obtener la respuesta:', error)
 
 await conn.reply(m.chat, 'Error: intenta más tarde.', m)}}}
 
-handler.customPrefix = /^(aicrow|crowtest)$/i
+handler.customPrefix = /^(aiprak|crowtest)$/i
 handler.command = new RegExp
 
 export default handler;
