@@ -291,7 +291,7 @@ break
     break
     default:
       if (!/[01]/.test(command)) return conn.reply(m.chat, `
-*[🍨] Funciones Solo Para Owner*
+*[🚀] Funciones Solo Para Owner*
 
 🜲 ${usedPrefix + command} antispam
 🜲 ${usedPrefix + command} antiprivado
@@ -299,7 +299,7 @@ break
 🜲 ${usedPrefix + command} status
 🜲 ${usedPrefix + command} restrict
 
-*[🎩] Funciones De Grupos*
+*[🚀] Funciones De Grupos*
 
 ➳ ${usedPrefix + command} welcome 
 ➳ ${usedPrefix + command} autolevelup
@@ -315,7 +315,7 @@ break
 
       throw false
   }
-  conn.reply(m.chat, `[🍨] La función *${type}* se *${isEnable ? 'activó' : 'desactivó'}* ${isAll ? 'para este Bot' : isUser ? '' : 'para este chat'}`, m, rcanal)
+  conn.reply(m.chat, `[🚀] La función *${type}* se *${isEnable ? 'activó' : 'desactivó'}* ${isAll ? 'para este Bot' : isUser ? '' : 'para este chat'}`, m, rcanal)
 }
 
 handler.help = ['enable', 'disable']
