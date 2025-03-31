@@ -1,6 +1,6 @@
 {
-"name": "PrakBot-MF",
-"version": "2.5.0",
+"name": "PrakBot-2.5",
+"version": "2.5",
 "description": "Simple WhatsApp Bot Multi Device",
 "main": "starcore.js",
 "type": "module",
@@ -18,16 +18,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/WillZek/CrowBot-ST",
+"homepage": "https://github.com/Prakharper/PrakBot-2.5",
 "author": {
-"name": "WillZek"
+"name": "Prak Harper"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/WillZek/CrowBot-ST.git"
+"url": "git+https://github.com/Prakharper/PrakBot-2.5.git"
 },
 "bugs": {
-"url": "https://github.com/WillZek/CrowBot-ST/issues"
+"url": "https://github.com/Prakharper/PrakBot 2.5/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
