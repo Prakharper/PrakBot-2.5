@@ -1,4 +1,4 @@
-//Codígo creado por Niño Piña wa.me/50557865603
+//Codígo creado por Prak harper wa.me/50557865603
 
 import fs from 'fs';
 import path from 'path';
