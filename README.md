@@ -1,18 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20Crow%20Bot%20💛&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20Prak%20Bot%20🚀&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
 
-![Bienvenida Épica](https://github.com/WillZek/WillZek/blob/main/Crow.svg)
+![Bienvenida Épica](https://github.com/prakharper/Prak/blob/main/PrakBot-2.5.svg)
 
 > **`🪩 Versión Actual: 2.5.0`**  
 
 <a
-href="https://github.com/WillZek/CrowBot-ST/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/WillZek/CrowBot-ST?color=yellow&style=flat-square"></a>
-<a href="https://github.com/WillZek/CrowBot-ST/watchers"><img title="espectadores" src="https://img.shields.io/github/watchers/WillZek/CrowBot-ST?label=Espectadores&style=social"></a>
+href="https://github.com/Prakharper/PrakBot-2.5/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Prakharper/PrakBot2.5?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Prakharper/PrakBot-2.5/watchers"><img title="espectadores" src="https://img.shields.io/github/watchers/Prakharper/PrakBot-2.5?label=Espectadores&style=social"></a>
 
 </p>
 
 ___
 
-# **`📩 Donaciones`**
+# **`🚀 Donaciones`**
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/starcoreNinoPina)
 [![Donen Pijes](https://img.shields.io/badge/Donar-E4405F?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/crowclub#pageMessageModal)
@@ -21,43 +21,43 @@ ___
 ___
 
 
-## 💛 **`C R O W - B O T`**    
+## 💙 **`P R A K - B O T`**    
 
-![Menú Principal](https://files.catbox.moe/v8q8y2.jpg)
+![Menú Principal](https://files.catbox.moe/qa9494.jpg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>   
 
-<a href="https://github.com/WillZek/CrowBot-ST"><img src="https://cardivo.vercel.app/api?name=CrowBot&repo=CrowBot-ST&description=Hola+Soy+CrowBot+Disfruta+del+Bot+De+WhatsApp.&image=https://telegra.ph/file/b346b44893d4613a72f98.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=crowbot_wa&whatsapp=50557865603&tiktok=crow_legendario_bs&pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/Prakharper/PrakBot-2.5"><img src="https://cardivo.vercel.app/api?name=PrakBot&repo=PrakBot-2.5&description=Hola+Soy+PrakBot+Disfruta+del+Bot+De+WhatsApp.&image=https://telegra.ph/file/b346b44893d4613a72f98.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=crowbot_wa&whatsapp=584241836217&tiktok=crow_legendario_bs&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=2000&color=FFD200FF&chrome=true&width=1000&height=200&lines=💛+ WillZek+Lanzó;🍷La+Version+2.5.0;Disfruta+Del+Bot+🎩" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=2000&color=FFD200FF&chrome=true&width=1000&height=200&lines=🚀+ Prak Harper+Lanzó;💙La+Version+2.5.;Disfruta+Del+Bot+🧿" alt="Typing SVG" /></a>
 
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 🍷 REDES OFICIALES 
+## 🧿 REDES OFICIALES 
 
 [![Web](https://img.shields.io/badge/Web_Oficial-36DFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://crow-bot-dashboard.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maito:ninopina10@gmail.com)
-[![XDjajaj](https://img.shields.io/badge/Github-333522?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WillZek)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/crowbot_wa)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maito: prakharper7@gmail.com)
+[![XDjajaj](https://img.shields.io/badge/Github-333522?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prakharper)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harperprak)
 [![Patreon](https://img.shields.io/badge/Patreon-6C6C6C?style=for-the-badge&logo=patreon&logoColor=white)](https://nohay.com)
 [![Facebook Pijes](https://img.shields.io/badge/Facebook-3D9FFF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61570569047747)
 [![Accounts](https://img.shields.io/badge/CUENTAS-000000%7D?style=for-the-badger&logo=biolink&logoColor=white)](https://www.atom.bio/crowbot-ofc)
 
 
-<a href="#"><img title="CrowBot" src="https://img.shields.io/badge/CROWBOT💛 | WILLZEK 💛 | MOON FORCE 💛-blue?colorA=%#4651a6FF&colorB=%23ff0000&style=for-the-badge"></a>
+<a href="#"><img title="PrakBot" src="https://img.shields.io/badge/CROWBOT🧿 | PRAK HARPER 🚀 | MOON FORCE 💙-blue?colorA=%#4651a6FF&colorB=%23ff0000&style=for-the-badge"></a>
 </p>
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-### **`🎩 INFORMACION IMPORTANTE`**
+### **`🚀 INFORMACION IMPORTANTE`**
 
-![Menu Secundario](https://files.catbox.moe/ugr9af.jpg)
+![Menu Secundario](https://files.catbox.moe/ftey8u.jpg)
 
-> Enlaces Oficiales De CrowBot
+> Enlaces Oficiales De PrakBot
 
 ### **`🔗 OBTEN LOS ENLACES`**
 
@@ -70,13 +70,13 @@ ___
 | **WhatsApp** | 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://chat.whatsapp.com/B7POPrlJiZf7UWHJKvzVkx) |
 | **WhatsApp** | 𝐂𝐨𝐦𝐮𝐧𝐢𝐝𝐚𝐝 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://chat.whatsapp.com/B85dNp4WfzsDeDz8OFgvhx) |
 | **Dashboard** | 𝐒𝐢𝐭𝐢𝐨𝐖𝐞𝐛 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click Aquí!](https://crowbot-web.vercel.app/) |
-| **Terminos** | 𝐓𝐞𝐫𝐦𝐢𝐧𝐨𝐬 𝐃𝐞𝐥𝐚 𝐖𝐞𝐛 | [¡Click Aquí!](https://github.com/WillZek/WillZek/blob/main/TyCW.md) |
+| **Terminos** | 𝐓𝐞𝐫𝐦𝐢𝐧𝐨𝐬 𝐃𝐞𝐥𝐚 𝐖𝐞𝐛 | [¡Click Aquí!](https://github.com/Prakharper/prak/blob/main/TyCW.md) |
 
 </details>
 
 ___
 
-### **`🔱 CARACTERÍSTICAS`**
+### **`🚀 CARACTERÍSTICAS`**
 <details>
  <summary><b> <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="Características" width="42" height="42"> Funciones de CrowBot (toca)</b></summary>
 
@@ -103,35 +103,35 @@ ___
 
 ### **`👑 INFORMACION CONTACTOS`**
 
-#### **`Owner: WillZek 🤴`**
+#### **`Owner: Prak Harper 🚀`**
 > **`Developed By: Moon Force`**
 
 #### **`CONTACTOS 💻`**
 <p>
 
 <a
-href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7.jpg" height="125px"></a>
+href="https://wa.me/584241836217?text="><img src="https://files.catbox.moe/ftey8u.jpg" height="125px"></a>
 
 <details>
 <summary><b> 📞 Toca Aqui</b></summary>
 
 - **Propietario:** [`Aquí`](https:/Wa.me/50557865603)
-- **Github:** [`Aqui`](https://github.com/WillZek)
-- **Instagram:** [`Aqui`](https://www.instagram.com/pina_dzn)
-- **Correo:** [`Aqui`](ninopina10@gmail.com)
+- **Github:** [`Aqui`](https://github.com/Prakharper)
+- **Instagram:** [`Aqui`](https://www.instagram.com/harperprak)
+- **Correo:** [`Aqui`](prakharper7@gmail.com)
 
 </details>
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-### **`🖤 TERMUX INFORMACIÓN`**
+### **`💙 TERMUX INFORMACIÓN`**
 
 > [!IMPORTANT]
-> **CrowBot No Recibe Mucho Mantenimiento En Termux**
+> **PrakBot No Recibe Mucho Mantenimiento En Termux**
 
 > [!TIP]
-> **Puedes Utilizar Servidores Para Instalar A CrowBot o Compra Tu [Token](https://crow-bot-dashboard.vercel.app/) En La Pagina Oficial De CrowBot!**
+> **Puedes Utilizar Servidores Para Instalar A PrakBot o Compra Tu [Token](https://crow-bot-dashboard.vercel.app/) En La Pagina Oficial De PrakBot!**
 
 
 #### **`🌠 Click en la imagen para obtener termux`**
@@ -156,7 +156,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/WillZek/CrowBot-ST && cd CrowBot-ST
+git clone https://github.com/Prakharper/PrakBot-2.5.git
 ```
 
 ```bash
@@ -168,24 +168,24 @@ npm start
 ```
 > **Si después de poner el numero de WhatsApp, y sale letras en roja no se preocupe es normal**
 
-> [**`CrowBot Archivos`**](https://github.com/WillZek/CrowBot-ST/archive/refs/heads/master.zip)
+> [**`PrakBot Archivos`**](https://github.com/Prakharper/PrakBot-2=5/archive/refs/heads/master.zip)
 
 </details>
 
 ---
 
-### 🍭 `HOSTINGS INFORMACION`
+### 🚀 `HOSTINGS INFORMACION`
 
 ![Informacion](https://qu.ax/LgBRM.jpg)
 
 <details>
- <summary><b> 🎩 𝗛𝗢𝗦𝗧𝗜𝗡𝗚𝗦 𝗗𝗘 𝗖𝗔𝗟𝗜𝗗𝗔𝗗</b></summary>
+ <summary><b> 🚀 𝗛𝗢𝗦𝗧𝗜𝗡𝗚𝗦 𝗗𝗘 𝗖𝗔𝗟𝗜𝗗𝗔𝗗</b></summary>
 
-###  **`🍬 LUMINARY'S - HOSTING`**
+###  **`🚀 LUMINARY'S - HOSTING`**
 <a href="https://dash.luminarys.shop/home"><img src="https://qu.ax/aHudo.jpg" height="145px"></a>
 
 <details>
- <summary><b>🍂 Servidor Luminary's - Host</b></summary>
+ <summary><b>🚀 Servidor Luminary's - Host</b></summary>
 
 * Dashboard: [`Dash`](https://dash.luminarys.shop)
 * Panel: [`Panel`](https://panel.luminarys.shop)
@@ -245,10 +245,10 @@ href="https://dash.hostingpy.shop/"><img src="https://files.catbox.moe/lr92z2.jp
 <a href="https://github.com/Manuel12yt"><img src="https://github.com/Manuel12yt.png" width="100" height="100" alt="Manuel12yt"/></a>
 
 
-## **`💛 𝘊𝘙𝘌𝘈𝘋𝘖𝘙`**
+## **`💙 𝘊𝘙𝘌𝘈𝘋𝘖𝘙`**
 <a
-href="https://github.com/WillZek"><img src="https://github.com/WillZek.png" width="130" height="130" alt="WillZek"/></a>
+href="https://github.com/Prakharper"><img src="https://github.com/prakharper.png" width="130" height="130" alt="Prak Harper"/></a>
 
 </details>
 
-> **[✎ P᥆ᥕᥱrᥱძ ᑲᥡ s𝗍ᥲrᥴ᥆rᥱ 𝗍ᥱᥲm ❀](https://whatsapp.com/channel/0029VaxkClI1NCrW4BX5rn3g)**
+> **[✎ P᥆ᥕᥱrᥱძ ᑲᥡ s𝗍ᥲrᥴ᥆rᥱ 𝗍ᥱᥲm ❀](https://whatsapp.com/channel/0029Vb03dv95a23v1gG0gT24)**
